@@ -1,6 +1,6 @@
 # Uncertainty Embedding
 
-This is the implementation of "Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors". 
+This is the implementation of "Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors" (accepted by T-IFS). 
 In the acquisition process, each iris image is a single sampling result of an iris texture under a certain acquisition condition. 
 Therefore, iris images are inevitably affected by various acquisition factors. 
 These acquisition factors are not only tightly entangled with identity features but also entangled with each other.
