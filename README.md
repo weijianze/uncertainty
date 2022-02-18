@@ -310,3 +310,42 @@ Recognition performance under the ***cross-database*** setting:
 | NDCS | 2.98 | 1.58 | 11.03 | 33.45 |
 | CSIR | 5.92 | 4.40 | 23.19 | 48.72 |
 
+
+## Extension
+In addition, we extend our representation method into unsupervised iris recognition by proposing contrastive uncertainty learning.
+
+More details are provided in the paper of "Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples"[pdf](https://ieeexplore.ieee.org/abstract/document/9484388/).
+[CUL]() releases the official implementation.
+
+<img src="./pictures/CUL_framework.png" width="300px">
+
+## Citation
+If you use this model or corresponding codes/datas for your research, please cite our papers.
+```
+@article{wei2022iris,
+  author={Jianze Wei and 
+          Huaibo Huang and
+          Yunlong Wang and
+          Ran He and 
+          Zhenan Sun}
+  title={Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors}, 
+  journal={IEEE Transactions on Information Forensics and Security}, 
+  year={2022},
+  volume={},
+  pages={},
+  publisher={IEEE}
+}
+
+```
+
+```
+@inproceedings{wei2021Contrastive,
+  author    = {Jianze Wei and
+               Ran He and
+               Zhenan Sun},
+  title     = {Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples},
+  booktitle = {International {IEEE} Joint Conference on Biometrics},
+  pages     = {1--8},
+  publisher = {{IEEE}},
+  year      = {2021},
+}
