@@ -17,7 +17,8 @@ In addition, this representation method can be extended to the unsupervised reco
 - [Usage](#Usage)
 - [Contribution](#Contribution)
 - [Results](#Results)
-
+- [Extension](#Extension)
+- [Citation](#Citation)
 
 
 
