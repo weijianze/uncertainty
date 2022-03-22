@@ -332,8 +332,8 @@ If you use this model or corresponding codes/datas for your research, please cit
   title={Towards More Discriminative and Robust Iris Recognition by Learning Uncertain Factors}, 
   journal={IEEE Transactions on Information Forensics and Security}, 
   year={2022},
-  volume={},
-  pages={},
+  volume={17},
+  pages={865-879},
   publisher={IEEE}
 }
 
