@@ -316,7 +316,7 @@ Recognition performance under the ***cross-database*** setting:
 In addition, we extend our representation method into unsupervised iris recognition by proposing contrastive uncertainty learning.
 
 More details are provided in the paper of "Contrastive Uncertainty Learning for Iris Recognition with Insufficient Labeled Samples"[pdf](https://ieeexplore.ieee.org/abstract/document/9484388/).
-[CUL]() (TODO) releases the official implementation.
+[CUL](https://github.com/reborn20200813/CUL) releases the official implementation.
 
 <img src="./pictures/CUL_framework.png" width="300px">
 
